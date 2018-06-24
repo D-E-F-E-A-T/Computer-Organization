@@ -35,7 +35,7 @@
 
 ```assembly
 .data
-	cap_word:	.ascii
+	cap_word: .ascii
             "Alpha \0\0\0\0",
             "Bravo \0\0\0\0",
             "China \0\0\0\0",
@@ -63,7 +63,7 @@
             "Yankee \0\0\0",
             "Zulu \0\0\0\0\0"
 
-	number:	.ascii
+	number: .ascii
             "zero \0\0\0\0\0", 
             "First \0\0\0\0", 
             "Second \0\0\0", 
